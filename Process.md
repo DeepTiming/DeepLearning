@@ -1,2 +1,3 @@
 20181119
-用于记录后续的论文和代码实践过程
+鐢ㄤ簬璁板綍鍚庣画鐨勮鏂囧拰浠ｇ爜瀹炶返杩囩▼
+faster R-CNN:https://blog.csdn.net/hitzijiyingcai/article/details/81808091
